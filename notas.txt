@@ -1,0 +1,4 @@
+Para el frton instalamos
+1) npm i @microsoft/signalr
+2) Escribir la conexion como esta en el app
+3) Aplicar la politica de servicios desde el back en ConfigureServices
